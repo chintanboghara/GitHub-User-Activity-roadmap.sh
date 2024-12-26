@@ -1,3 +1,5 @@
+[![Python CI](https://github.com/chintanboghara/GitHub-User-Activity-roadmap.sh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/chintanboghara/GitHub-User-Activity-roadmap.sh/actions/workflows/ci.yml)
+
 This project is a simple command-line tool to fetch and display a GitHub user's recent activity. It uses GitHub's public API to fetch events and outputs them in a human-readable format on the terminal.
 
 ## Features
